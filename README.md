@@ -4,4 +4,6 @@ HI! 👋 I'm Melissa, an upcoming web developer with a background in Graphic and
 
 Currently studying at Humber College for Web Development in Toronto, Ontario
 
-![This is me!](/image/melissa-deleon.jpg "Melissa De Leon")
+<img src="/image/melissa-deleon.jpg" width="200">
+
+Check out my portfolio! &rarr; [My Portfolio](https://www.melissa-deleon.ca/)
